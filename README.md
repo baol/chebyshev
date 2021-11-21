@@ -9,7 +9,7 @@ approximation may give you the performance boost you need in the inner loop of y
 This is a starting point, and a tool I use for myself. You will need some pencil and paper later on
 to expand the polynomial and happly the Horner's method on the results for an actual speedup.
 
-Have a look at [the commented source](cos.rb)
+Have a look at [the commented source](chebyshev.rb) and at the resulting implementation of the [cos](cos.rb)
 
 > happy hacking
 >
