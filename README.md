@@ -11,6 +11,10 @@ to expand the polynomial and happly the Horner's method on the results for an ac
 
 Have a look at [the commented source](chebyshev.rb) and at the resulting implementation of the [cos](cos.rb)
 
+For example the following plot compares the `cos` function and it's approximation computed in the range `[0, π/2]`
+
+![Chebychev approx](chebyshev.jpg)
+
 > happy hacking
 >
 > baol
